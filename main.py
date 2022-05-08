@@ -1,2 +1,4 @@
-for k in range(5):
+N = int(input())
+
+for k in range(N):
     print(k)
