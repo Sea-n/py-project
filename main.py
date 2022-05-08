@@ -1,3 +1,4 @@
+print("Hey there!")
 N = int(input("Input N: "))
 
 for k in range(N):
